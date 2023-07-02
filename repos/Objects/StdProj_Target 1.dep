@@ -1,0 +1,157 @@
+Dependencies for Project 'StdProj', Target 'Target 1': (DO NOT MODIFY !)
+CompilerVersion: 6160000::V6.16::ARMCLANG
+F (.\Src\ADC.c)(0x62AFFFB1)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m3 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -w-I./RTE/Device/STM32F103RB-I./RTE/_Target_1-I"C:/Users/Park SeongJun/AppData/Local/Arm/Packs/ARM/CMSIS/5.8.0/CMSIS/Core/Include"-I"C:/Users/Park SeongJun/AppData/Local/Arm/Packs/Keil/STM32F1xx_DFP/2.4.0/Device/Include"-D__UVISION_VERSION="536" -D_RTE_ -DSTM32F10X_MD -D_RTE_ -DSTM32F10x_MD_VL-o ./objects/adc.o -MD)
+I (Src\ADC.h)(0x62AFFF99)
+I (C:\Users\Park SeongJun\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.0\Device\Include\stm32f10x.h)(0x622597F7)
+I (RTE\_Target_1\RTE_Components.h)(0x62537237)
+I (C:\Users\Park SeongJun\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\core_cm3.h)(0x60D3DAD2)
+I (E:\Programs\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x6034F9C0)
+I (C:\Users\Park SeongJun\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_version.h)(0x60D3DAD2)
+I (C:\Users\Park SeongJun\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_compiler.h)(0x60D3DAD2)
+I (C:\Users\Park SeongJun\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_armclang.h)(0x60D3DAD2)
+I (C:\Users\Park SeongJun\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.0\Device\Include\system_stm32f10x.h)(0x61AD6B4E)
+I (E:\Programs\Keil_v5\ARM\ARMCLANG\include\stdlib.h)(0x6034F9C0)
+I (Src\GlobalParameters.h)(0x62B1480E)
+I (E:\Programs\Keil_v5\ARM\ARMCLANG\include\stdbool.h)(0x6034F9BA)
+I (E:\Programs\Keil_v5\ARM\ARMCLANG\include\inttypes.h)(0x6034F9A6)
+F (.\Src\ADC.h)(0x62AFFF99)()
+F (.\Src\DOT_MATRIX.c)(0x62B3E550)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m3 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -w-I./RTE/Device/STM32F103RB-I./RTE/_Target_1-I"C:/Users/Park SeongJun/AppData/Local/Arm/Packs/ARM/CMSIS/5.8.0/CMSIS/Core/Include"-I"C:/Users/Park SeongJun/AppData/Local/Arm/Packs/Keil/STM32F1xx_DFP/2.4.0/Device/Include"-D__UVISION_VERSION="536" -D_RTE_ -DSTM32F10X_MD -D_RTE_ -DSTM32F10x_MD_VL-o ./objects/dot_matrix.o -MD)
+I (Src\DOT_MATRIX.h)(0x62B0296D)
+I (C:\Users\Park SeongJun\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.0\Device\Include\stm32f10x.h)(0x622597F7)
+I (RTE\_Target_1\RTE_Components.h)(0x62537237)
+I (C:\Users\Park SeongJun\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\core_cm3.h)(0x60D3DAD2)
+I (E:\Programs\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x6034F9C0)
+I (C:\Users\Park SeongJun\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_version.h)(0x60D3DAD2)
+I (C:\Users\Park SeongJun\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_compiler.h)(0x60D3DAD2)
+I (C:\Users\Park SeongJun\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_armclang.h)(0x60D3DAD2)
+I (C:\Users\Park SeongJun\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.0\Device\Include\system_stm32f10x.h)(0x61AD6B4E)
+I (E:\Programs\Keil_v5\ARM\ARMCLANG\include\stdbool.h)(0x6034F9BA)
+I (E:\Programs\Keil_v5\ARM\ARMCLANG\include\stdlib.h)(0x6034F9C0)
+I (E:\Programs\Keil_v5\ARM\ARMCLANG\include\string.h)(0x6034F9C0)
+I (Src\GPIO.h)(0x62AFF781)
+I (E:\Programs\Keil_v5\ARM\ARMCLANG\include\assert.h)(0x6034F9C0)
+I (Src\GlobalParameters.h)(0x62B1480E)
+I (E:\Programs\Keil_v5\ARM\ARMCLANG\include\inttypes.h)(0x6034F9A6)
+I (Src\TIMER.h)(0x62B04C98)
+I (Src\DotMatrixPattern.h)(0x62AED29A)
+F (.\Src\DOT_MATRIX.h)(0x62B0296D)()
+F (.\Src\DotMatrixPattern.h)(0x62AED29A)()
+F (.\Src\GPIO.c)(0x62A2F7D4)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m3 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -w-I./RTE/Device/STM32F103RB-I./RTE/_Target_1-I"C:/Users/Park SeongJun/AppData/Local/Arm/Packs/ARM/CMSIS/5.8.0/CMSIS/Core/Include"-I"C:/Users/Park SeongJun/AppData/Local/Arm/Packs/Keil/STM32F1xx_DFP/2.4.0/Device/Include"-D__UVISION_VERSION="536" -D_RTE_ -DSTM32F10X_MD -D_RTE_ -DSTM32F10x_MD_VL-o ./objects/gpio.o -MD)
+I (Src\GPIO.h)(0x62AFF781)
+I (C:\Users\Park SeongJun\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.0\Device\Include\stm32f10x.h)(0x622597F7)
+I (RTE\_Target_1\RTE_Components.h)(0x62537237)
+I (C:\Users\Park SeongJun\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\core_cm3.h)(0x60D3DAD2)
+I (E:\Programs\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x6034F9C0)
+I (C:\Users\Park SeongJun\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_version.h)(0x60D3DAD2)
+I (C:\Users\Park SeongJun\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_compiler.h)(0x60D3DAD2)
+I (C:\Users\Park SeongJun\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_armclang.h)(0x60D3DAD2)
+I (C:\Users\Park SeongJun\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.0\Device\Include\system_stm32f10x.h)(0x61AD6B4E)
+I (E:\Programs\Keil_v5\ARM\ARMCLANG\include\assert.h)(0x6034F9C0)
+I (E:\Programs\Keil_v5\ARM\ARMCLANG\include\stdbool.h)(0x6034F9BA)
+I (Src\GlobalParameters.h)(0x62B1480E)
+I (E:\Programs\Keil_v5\ARM\ARMCLANG\include\stdlib.h)(0x6034F9C0)
+I (E:\Programs\Keil_v5\ARM\ARMCLANG\include\inttypes.h)(0x6034F9A6)
+F (.\Src\GPIO.h)(0x62AFF781)()
+F (.\Src\KEY_MATRIX.c)(0x62B0325A)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m3 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -w-I./RTE/Device/STM32F103RB-I./RTE/_Target_1-I"C:/Users/Park SeongJun/AppData/Local/Arm/Packs/ARM/CMSIS/5.8.0/CMSIS/Core/Include"-I"C:/Users/Park SeongJun/AppData/Local/Arm/Packs/Keil/STM32F1xx_DFP/2.4.0/Device/Include"-D__UVISION_VERSION="536" -D_RTE_ -DSTM32F10X_MD -D_RTE_ -DSTM32F10x_MD_VL-o ./objects/key_matrix.o -MD)
+I (Src\KEY_MATRIX.h)(0x62AFF774)
+I (C:\Users\Park SeongJun\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.0\Device\Include\stm32f10x.h)(0x622597F7)
+I (RTE\_Target_1\RTE_Components.h)(0x62537237)
+I (C:\Users\Park SeongJun\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\core_cm3.h)(0x60D3DAD2)
+I (E:\Programs\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x6034F9C0)
+I (C:\Users\Park SeongJun\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_version.h)(0x60D3DAD2)
+I (C:\Users\Park SeongJun\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_compiler.h)(0x60D3DAD2)
+I (C:\Users\Park SeongJun\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_armclang.h)(0x60D3DAD2)
+I (C:\Users\Park SeongJun\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.0\Device\Include\system_stm32f10x.h)(0x61AD6B4E)
+I (E:\Programs\Keil_v5\ARM\ARMCLANG\include\stdbool.h)(0x6034F9BA)
+I (Src\GPIO.h)(0x62AFF781)
+I (E:\Programs\Keil_v5\ARM\ARMCLANG\include\assert.h)(0x6034F9C0)
+I (Src\GlobalParameters.h)(0x62B1480E)
+I (E:\Programs\Keil_v5\ARM\ARMCLANG\include\stdlib.h)(0x6034F9C0)
+I (E:\Programs\Keil_v5\ARM\ARMCLANG\include\inttypes.h)(0x6034F9A6)
+I (Src\TIMER.h)(0x62B04C98)
+F (.\Src\KEY_MATRIX.h)(0x62AFF774)()
+F (.\Src\main.c)(0x62B138E1)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m3 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -w-I./RTE/Device/STM32F103RB-I./RTE/_Target_1-I"C:/Users/Park SeongJun/AppData/Local/Arm/Packs/ARM/CMSIS/5.8.0/CMSIS/Core/Include"-I"C:/Users/Park SeongJun/AppData/Local/Arm/Packs/Keil/STM32F1xx_DFP/2.4.0/Device/Include"-D__UVISION_VERSION="536" -D_RTE_ -DSTM32F10X_MD -D_RTE_ -DSTM32F10x_MD_VL-o ./objects/main.o -MD)
+I (Src\main.h)(0x62B134E9)
+I (C:\Users\Park SeongJun\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.0\Device\Include\stm32f10x.h)(0x622597F7)
+I (RTE\_Target_1\RTE_Components.h)(0x62537237)
+I (C:\Users\Park SeongJun\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\core_cm3.h)(0x60D3DAD2)
+I (E:\Programs\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x6034F9C0)
+I (C:\Users\Park SeongJun\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_version.h)(0x60D3DAD2)
+I (C:\Users\Park SeongJun\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_compiler.h)(0x60D3DAD2)
+I (C:\Users\Park SeongJun\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_armclang.h)(0x60D3DAD2)
+I (C:\Users\Park SeongJun\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.0\Device\Include\system_stm32f10x.h)(0x61AD6B4E)
+I (Src\stm32f10x_flash.h)(0x62B06072)
+I (Src\ADC.h)(0x62AFFF99)
+I (E:\Programs\Keil_v5\ARM\ARMCLANG\include\stdlib.h)(0x6034F9C0)
+I (Src\GlobalParameters.h)(0x62B1480E)
+I (E:\Programs\Keil_v5\ARM\ARMCLANG\include\stdbool.h)(0x6034F9BA)
+I (E:\Programs\Keil_v5\ARM\ARMCLANG\include\inttypes.h)(0x6034F9A6)
+I (Src\DOT_MATRIX.h)(0x62B0296D)
+I (E:\Programs\Keil_v5\ARM\ARMCLANG\include\string.h)(0x6034F9C0)
+I (Src\GPIO.h)(0x62AFF781)
+I (E:\Programs\Keil_v5\ARM\ARMCLANG\include\assert.h)(0x6034F9C0)
+I (Src\TIMER.h)(0x62B04C98)
+I (Src\KEY_MATRIX.h)(0x62AFF774)
+I (Src\USART.h)(0x62B146AA)
+F (.\Src\main.h)(0x62B134E9)()
+F (.\Src\TIMER.c)(0x62B147FE)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m3 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -w-I./RTE/Device/STM32F103RB-I./RTE/_Target_1-I"C:/Users/Park SeongJun/AppData/Local/Arm/Packs/ARM/CMSIS/5.8.0/CMSIS/Core/Include"-I"C:/Users/Park SeongJun/AppData/Local/Arm/Packs/Keil/STM32F1xx_DFP/2.4.0/Device/Include"-D__UVISION_VERSION="536" -D_RTE_ -DSTM32F10X_MD -D_RTE_ -DSTM32F10x_MD_VL-o ./objects/timer.o -MD)
+I (Src\TIMER.h)(0x62B04C98)
+I (C:\Users\Park SeongJun\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.0\Device\Include\stm32f10x.h)(0x622597F7)
+I (RTE\_Target_1\RTE_Components.h)(0x62537237)
+I (C:\Users\Park SeongJun\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\core_cm3.h)(0x60D3DAD2)
+I (E:\Programs\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x6034F9C0)
+I (C:\Users\Park SeongJun\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_version.h)(0x60D3DAD2)
+I (C:\Users\Park SeongJun\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_compiler.h)(0x60D3DAD2)
+I (C:\Users\Park SeongJun\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_armclang.h)(0x60D3DAD2)
+I (C:\Users\Park SeongJun\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.0\Device\Include\system_stm32f10x.h)(0x61AD6B4E)
+I (E:\Programs\Keil_v5\ARM\ARMCLANG\include\stdbool.h)(0x6034F9BA)
+I (E:\Programs\Keil_v5\ARM\ARMCLANG\include\stdlib.h)(0x6034F9C0)
+I (E:\Programs\Keil_v5\ARM\ARMCLANG\include\assert.h)(0x6034F9C0)
+I (Src\GlobalParameters.h)(0x62B1480E)
+I (E:\Programs\Keil_v5\ARM\ARMCLANG\include\inttypes.h)(0x6034F9A6)
+F (.\Src\TIMER.h)(0x62B04C98)()
+F (.\Src\USART.c)(0x62B13533)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m3 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -w-I./RTE/Device/STM32F103RB-I./RTE/_Target_1-I"C:/Users/Park SeongJun/AppData/Local/Arm/Packs/ARM/CMSIS/5.8.0/CMSIS/Core/Include"-I"C:/Users/Park SeongJun/AppData/Local/Arm/Packs/Keil/STM32F1xx_DFP/2.4.0/Device/Include"-D__UVISION_VERSION="536" -D_RTE_ -DSTM32F10X_MD -D_RTE_ -DSTM32F10x_MD_VL-o ./objects/usart.o -MD)
+I (Src\USART.h)(0x62B146AA)
+I (C:\Users\Park SeongJun\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.0\Device\Include\stm32f10x.h)(0x622597F7)
+I (RTE\_Target_1\RTE_Components.h)(0x62537237)
+I (C:\Users\Park SeongJun\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\core_cm3.h)(0x60D3DAD2)
+I (E:\Programs\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x6034F9C0)
+I (C:\Users\Park SeongJun\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_version.h)(0x60D3DAD2)
+I (C:\Users\Park SeongJun\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_compiler.h)(0x60D3DAD2)
+I (C:\Users\Park SeongJun\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_armclang.h)(0x60D3DAD2)
+I (C:\Users\Park SeongJun\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.0\Device\Include\system_stm32f10x.h)(0x61AD6B4E)
+I (E:\Programs\Keil_v5\ARM\ARMCLANG\include\stdbool.h)(0x6034F9BA)
+I (E:\Programs\Keil_v5\ARM\ARMCLANG\include\stdlib.h)(0x6034F9C0)
+I (Src\GPIO.h)(0x62AFF781)
+I (E:\Programs\Keil_v5\ARM\ARMCLANG\include\assert.h)(0x6034F9C0)
+I (Src\GlobalParameters.h)(0x62B1480E)
+I (E:\Programs\Keil_v5\ARM\ARMCLANG\include\inttypes.h)(0x6034F9A6)
+I (Src\TIMER.h)(0x62B04C98)
+I (Src\DOT_MATRIX.h)(0x62B0296D)
+I (E:\Programs\Keil_v5\ARM\ARMCLANG\include\string.h)(0x6034F9C0)
+F (.\Src\USART.h)(0x62B146AA)()
+F (.\Src\GlobalParameters.h)(0x62B1480E)()
+F (.\Src\stm32f10x_flash.c)(0x62B07C34)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m3 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -w-I./RTE/Device/STM32F103RB-I./RTE/_Target_1-I"C:/Users/Park SeongJun/AppData/Local/Arm/Packs/ARM/CMSIS/5.8.0/CMSIS/Core/Include"-I"C:/Users/Park SeongJun/AppData/Local/Arm/Packs/Keil/STM32F1xx_DFP/2.4.0/Device/Include"-D__UVISION_VERSION="536" -D_RTE_ -DSTM32F10X_MD -D_RTE_ -DSTM32F10x_MD_VL-o ./objects/stm32f10x_flash.o -MD)
+I (Src\stm32f10x_flash.h)(0x62B06072)
+I (C:\Users\Park SeongJun\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.0\Device\Include\stm32f10x.h)(0x622597F7)
+I (RTE\_Target_1\RTE_Components.h)(0x62537237)
+I (C:\Users\Park SeongJun\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\core_cm3.h)(0x60D3DAD2)
+I (E:\Programs\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x6034F9C0)
+I (C:\Users\Park SeongJun\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_version.h)(0x60D3DAD2)
+I (C:\Users\Park SeongJun\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_compiler.h)(0x60D3DAD2)
+I (C:\Users\Park SeongJun\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_armclang.h)(0x60D3DAD2)
+I (C:\Users\Park SeongJun\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.0\Device\Include\system_stm32f10x.h)(0x61AD6B4E)
+I (Src\stm32f10x_conf.h)(0x62B06330)
+F (.\Src\stm32f10x_flash.h)(0x62B06072)()
+F (.\Src\stm32f10x_conf.h)(0x62B06330)()
+F (RTE\Device\STM32F103RB\RTE_Device.h)(0x5FC041DA)()
+F (RTE\Device\STM32F103RB\startup_stm32f10x_md.s)(0x629DD24F)(--target=arm-arm-none-eabi -mcpu=cortex-m3 -masm=auto -c-gdwarf-4 -Wa,armasm,--pd,"__EVAL SETA 1"-I./RTE/Device/STM32F103RB-I./RTE/_Target_1-I"C:/Users/Park SeongJun/AppData/Local/Arm/Packs/ARM/CMSIS/5.8.0/CMSIS/Core/Include"-I"C:/Users/Park SeongJun/AppData/Local/Arm/Packs/Keil/STM32F1xx_DFP/2.4.0/Device/Include"-Wa,armasm,--pd,"__UVISION_VERSION SETA 536" -Wa,armasm,--pd,"_RTE_ SETA 1" -Wa,armasm,--pd,"STM32F10X_MD SETA 1" -Wa,armasm,--pd,"_RTE_ SETA 1"-o ./objects/startup_stm32f10x_md.o)
+F (RTE\Device\STM32F103RB\system_stm32f10x.c)(0x61AD6B4E)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m3 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-D__EVAL -gdwarf-4 -O0 -ffunction-sections -w-I./RTE/Device/STM32F103RB-I./RTE/_Target_1-I"C:/Users/Park SeongJun/AppData/Local/Arm/Packs/ARM/CMSIS/5.8.0/CMSIS/Core/Include"-I"C:/Users/Park SeongJun/AppData/Local/Arm/Packs/Keil/STM32F1xx_DFP/2.4.0/Device/Include"-D__UVISION_VERSION="536" -D_RTE_ -DSTM32F10X_MD -D_RTE_ -DSTM32F10x_MD_VL-o ./objects/system_stm32f10x.o -MD)
+I (C:\Users\Park SeongJun\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.0\Device\Include\stm32f10x.h)(0x622597F7)
+I (RTE\_Target_1\RTE_Components.h)(0x62537237)
+I (C:\Users\Park SeongJun\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\core_cm3.h)(0x60D3DAD2)
+I (E:\Programs\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x6034F9C0)
+I (C:\Users\Park SeongJun\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_version.h)(0x60D3DAD2)
+I (C:\Users\Park SeongJun\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_compiler.h)(0x60D3DAD2)
+I (C:\Users\Park SeongJun\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_armclang.h)(0x60D3DAD2)
+I (C:\Users\Park SeongJun\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.0\Device\Include\system_stm32f10x.h)(0x61AD6B4E)

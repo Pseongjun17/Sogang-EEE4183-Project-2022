@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.py": "python",
+        "key_matrix.h": "c",
+        "gpio.h": "c",
+        "dot_matrix.h": "c"
+    }
+}
